@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/Feirao_Inter_23out_2026_20lotes.pdf" }
+  ]
+}
